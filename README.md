@@ -66,6 +66,16 @@ npm run dev
 - No authentication is built in, so be careful when exposing this server to the internet
 - For internet-facing deployments, consider adding authentication and HTTPS
 
+- ## Future Improvements
+
+- **Enhanced Security**: Implement authentication and HTTPS support to ensure secure access, especially for internet-facing deployments.
+- **File Upload Capability**: Add functionality to allow users to upload files directly to the shared directory through the web interface.
+- **User Management**: Introduce user roles and permissions to control access to specific files or directories.
+- **Search Functionality**: Provide a search feature to quickly locate files within the shared directory.
+- **Mobile-Friendly Interface**: Optimize the web interface for better usability on mobile devices.
+- **Activity Logging**: Implement logging to track file access and downloads.
+- **API Integration**: Develop a RESTful API for programmatic access to the file-sharing functionality.
+
 ## License
 
 MIT
